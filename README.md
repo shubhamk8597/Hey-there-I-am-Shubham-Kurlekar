@@ -1,4 +1,4 @@
-# Shubham_Portfolio
+# Shubham-Kurlekar_Portfolio
 
 # [1 - No Dislikes? No Problem! Comments don't lie.](https://github.com/shubhamk8597/alternative_youtube_dislikes)
 
@@ -13,4 +13,12 @@ So, recently youtube decided that it will not show the number of dislikes for a 
 * Deploying the application on streamlit for public use. 
 
 
-#
+# [2 - Recommending Right Content To Right Users.](https://github.com/shubhamk8597/Project---Recommending-Right-Content-To-Right-Users/blob/main/README.md)
+
+* Extensive EDA (Exploratory Data Analysis ) with Bubble charts, Word clouds, Bar and Pie charts
+* NLP(Natural Language Processing) Pipeline to clean and extract relevant data.(TF-IDF)
+* Tuned Gensim and LDA (Latent Dirichlet allocation) model for close expected results ( alpha = 0.02)
+* LDA visualization with pyLDAvis for more insights
+* Recommending questions using cosine similarity, Jaccard similarity and ranking the recommendation (based on final_score= ∑s ∈ S (s_ weight ∗ s_value )
+
+![](https://github.com/shubhamk8597/Project---Recommending-Right-Content-To-Right-Users/blob/main/'/Images'/19.PNG)
