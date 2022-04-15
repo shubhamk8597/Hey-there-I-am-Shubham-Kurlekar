@@ -23,4 +23,4 @@ Click [here](https://share.streamlit.io/shubhamk8597/alternative_youtube_dislike
 * LDA visualization with pyLDAvis for more insights
 * Recommending questions using cosine similarity, Jaccard similarity and ranking the recommendation (based on final_score= ∑s ∈ S (s_ weight ∗ s_value )
 
-![](/Images/19.PNG)
+![](Images/19.png)
