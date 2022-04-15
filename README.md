@@ -6,7 +6,7 @@ So, recently youtube decided that it will not show the number of dislikes for a 
 
 Click [here](https://share.streamlit.io/shubhamk8597/alternative_youtube_dislikes/main/yt_comment_nlp.py) to try out the application.
 
-![](https://github.com/shubhamk8597/alternative_youtube_dislikes/blob/main/yt_dislike_problem.gif)
+![](Images/yt_dislike_problem.gif)
 
 * Youtube API handeling to get comments of a particular video.
 * Text cleaning for better sentiment analysis.
@@ -23,4 +23,4 @@ Click [here](https://share.streamlit.io/shubhamk8597/alternative_youtube_dislike
 * LDA visualization with pyLDAvis for more insights
 * Recommending questions using cosine similarity, Jaccard similarity and ranking the recommendation (based on final_score= ∑s ∈ S (s_ weight ∗ s_value )
 
-![](https://github.com/shubhamk8597/Project---Recommending-Right-Content-To-Right-Users/blob/main/'/Images'/19.PNG)
+![](/Images/19.PNG)
