@@ -8,11 +8,11 @@ Click [here](https://share.streamlit.io/shubhamk8597/alternative_youtube_dislike
 
 ![](Images/yt_dislike_problem.gif)
 
-* Youtube API handeling to get comments of a particular video.
+* YouTube API handling to get comments of a particular video.
 * Text cleaning for better sentiment analysis.
 * Sentiment analysis of English comments using VADER from nltk.
-* Visualising the results in the form of wordcloud, pie chart and line chart.
-* Deploying the application on streamlit for public use. 
+* Visualizing the results in the form of wordcloud, pie chart and line chart.
+* Deploying the application on streamlit for public use.
 
 
 # [2 - Recommending Right Content To Right Users.](https://github.com/shubhamk8597/Project---Recommending-Right-Content-To-Right-Users/blob/main/README.md)
