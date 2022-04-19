@@ -6,6 +6,9 @@
 
 So, recently youtube decided that it will not show the number of dislikes for a video. Being an avid youtube user, this update did not help me in any way. The number of dislikes and the ratio of likes to dislikes helped me in making the decision whether to watch the video or not in a split second. But now I was helpless. I could not decide on which videos should I invest my precious time on.
 
+I was not going to let YouTube have its way. I decided to use my data science skills to solve this problem.
+For anyone who wants to decide where to watch a YouTube video or not.
+
 Click [here](https://share.streamlit.io/shubhamk8597/alternative_youtube_dislikes/main/yt_comment_nlp.py) to try out the application.
 
 ![](Images/yt_dislike_problem.gif)
