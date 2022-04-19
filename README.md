@@ -15,7 +15,35 @@ Click [here](https://share.streamlit.io/shubhamk8597/alternative_youtube_dislike
 * Deploying the application on streamlit for public use.
 
 
-# [2 - Recommending Right Content To Right Users.](https://github.com/shubhamk8597/Project---Recommending-Right-Content-To-Right-Users/blob/main/README.md)
+# [2 - Automatic Question Generation From Technical Learning Material.](https://github.com/shubhamk8597/College-Project--Automatic-Question-Generation-From-Educational-Text)
+
+Automatic Question Generation from Technical texts
+- Eliminated unknown unrecognized symbols in data cleaning which made the model 15% better
+- Summarization using BERT Extractive Summarizer giving only important sentences and making the process faster by 35%
+
+Found Drawbacks of WH -Question and Template Based Questions
+- Tedious task of defining very specific rules for every POS tag which takes away the goal of automation.
+- No labeled technical data to train the model
+
+Gap Fill Questions and MCQ(Multiple Choice Questions) with 60% relevant questions
+- Keyword extraction with Python keyword extractor (PKE) to generate Gap Fill Questions
+- Using Gensim golve2word2vec to generate distractors for MCQ 
+
+True and False Questions 55% relevant questions
+- New Question Type which was not covered in any AQG research papers
+- True and False questions by generating opposite words of keywords by using wordnet from NLTK library
+
+Match the column 67% Relevant Questions
+- Modified MCQ concepts to generate a new question type that will help students to learn more concepts in a single question
+
+User Interface
+- Built a UI by using Pyqt5 library
+- UI for teachers to validate and evaluate questions (Human In the Loop)
+- UI for students to practice different kinds of questions
+
+![](Images/worrkflow.jfif)
+
+# [3 - Recommending Right Content To Right Users.](https://github.com/shubhamk8597/Project---Recommending-Right-Content-To-Right-Users/blob/main/README.md)
 
 * Extensive EDA (Exploratory Data Analysis ) with Bubble charts, Word clouds, Bar and Pie charts
 * NLP(Natural Language Processing) Pipeline to clean and extract relevant data.(TF-IDF)
@@ -24,3 +52,13 @@ Click [here](https://share.streamlit.io/shubhamk8597/alternative_youtube_dislike
 * Recommending questions using cosine similarity, Jaccard similarity and ranking the recommendation (based on final_score= ∑s ∈ S (s_ weight ∗ s_value )
 
 ![](Images/19.png)
+
+# [4 - Predicting Cognetive States of Pilots By Analysing Physiological Data](https://github.com/shubhamk8597/Project---Predicting-Cognetive-States-of-Pilots-By-Analysing-Physiological-Data)
+
+* Researched in depth the data of EEG(Electroencephalogram) and ECG(Electrocardiogram) for clear insights
+* EDA(Exploratory Data Analysis) by Distribution plots and Violin plots to compare different physiological data
+* Gradient boosting with LightBGM to extract important features visualizing the prediction with the help of a confusion matrix
+* Reduced the log loss to .03213 from .03830 
+* The average accuracy of 96.25% was obtained with 99% accuracy on the most important data point.
+
+![](Images/9.jpg)
